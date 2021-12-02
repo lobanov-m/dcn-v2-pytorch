@@ -16,7 +16,7 @@ and models will work without diving in problems of extension compilation.
 
 ## Installation
 ```
-pip install git+https://github.com/lobanov-m/dcn-v2-pytroch.git
+pip install git+https://github.com/lobanov-m/dcn-v2-pytorch.git
 ```
 Repository requires `pytorch >= 1.8.1` and `torchvision >= 0.9.0` 
 (in this version torchvision started to support modulated deformable convolutions).
